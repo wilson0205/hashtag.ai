@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About Hashtag.ai
-permalink: /about/
+permalink: "/about/"
+layout: page
 tags: about
 ---
 
