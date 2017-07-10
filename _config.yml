@@ -1,110 +1,52 @@
----
-title: Hashtag.ai℠
-timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-post_preview_image: false
-enable_anchorjs: false
-redcarpet:
-  extensions:
-  - smart
-  - tables
-  - with_toc_data
-sass:
-  style: compressed
-txtpen_sitename: 
-gems:
-- jekyll-paginate
-- jekyll-sitemap
-linkedin_username: 
-markdown: kramdown
-angellist_username: 
-twitter_username: 
-share_stumbleupon: false
-show_post_footers: false
-share_hackernews: false
-share_reddit: false
-paypal_url: 
-share_linkedin: false
-share_googleplus: false
-bitcoin_url: 
-fb_page_id: 
-show_social_icons: false
-bitbucket_username: 
-enable_mathjax: false
-flattr_button: 
-github_username: 
-description: Everything AI
-medium_id: 
-url: http://hashtag.ai
-share_twitter: false
-extended_fonts: false
-show_sharing_icons: false
-text:
-  pagination:
-    newer: Newer
-    older: Older
-  share_buttons:
-    text: Share this post!
-    facebook: Share on Facebook
-    twitter: Share on Twitter
-    googleplus: Share on Google+
-    linkedin: Share on LinkedIn
-    digg: Share on Digg
-    tumblr: Share on Tumblr
-    reddit: Share on Reddit
-    stumbleupon: Share on StumbleUpon
-    hackernews: Share on Hacker News
-  post:
-    updated: Updated
-    minute_read: minute read
-    related_posts: Related Posts
-  index:
-    coming_soon: Coming soon...
-  contact:
-    email: Email Address
-    content: What would you like to say?
-    subject: New submission!
-    submit: Say Hello
-    ajax:
-      sending: sending..
-      sent: Message sent!
-      error: Error!
-  thanks: Thanks for contacting us. We will reply as soon as possible.
-  og_locale: en_US
-email: wilson0205@gmail.com
-animated: false
-disqus_shortname: 
-facebook_comments_number: 10
-telegram_username: 
-facebook_appid: 
-google_analytics: 
-skype_username: 
-vk_id: 
-share_digg: false
-google_tag_manager: 
-share_tumblr: false
-permalink: pretty
-paginate: 4
-baseurl: 
-google_plus_id: 
-facebook_comments: 
-ajaxify_contact_form: false
-date_format: "%b %-d, %Y"
-share_facebook: false
-fb_page: false
-exclude:
-- Gemfile
-- Gemfile.lock
-- vendor
-bing_verification: 
-google_verification: 
-author: Wilson Tjandra
-show_related_posts: false
-steam_nickname: 
-stackoverflow_id: 
+# Dependencies
+markdown:	redcarpet
+pygments:	true
+
+# Permalinks
+permalink:	/blog/:title
+
+# Setup
+title:		Hashtag.ai
+tagline:	'blog'
+description:	'#AI'
+url:		http://hashtag.ai
+
+author:
+  name:		'Wilson Tjandra'
+  url:		https://google.com/
+
+paginate:	5
+
+# Custom vars
+icon:		/assets/images/icon.png
+cover:		/assets/images/cover.jpg
+
+social:
+  - icon:	twitter
+    url:	https://twitter.com/
+    desc:	Follow me on twitter
+
+  - icon:	github
+    url:	https://github.com/
+    desc:	Fork me on github
+
+  - icon:	googleplus-alt
+    url:	https://google.com/
+    desc:	Add me on google+
+
+  - icon:	feed
+    url:	http://hashtag.ai
+    desc:	Subscribe to my feed
+    
+menu:
+  - title:	Home
+    url:	/
+    
+  - title:	About
+    url:	/about
+    
+copyright:
+  author:	Camporez
+  url:		http://hashtag.ai
+  type_title:	Some rights reserved
+  type_url:	http://creativecommons.org/licenses/by-nc/2.5
