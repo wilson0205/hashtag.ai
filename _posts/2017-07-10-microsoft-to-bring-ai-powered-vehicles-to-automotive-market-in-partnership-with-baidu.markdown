@@ -1,7 +1,14 @@
 ---
+layout: post
+cover: 'assets/images/cover6.jpg'
 title: Microsoft to bring AI powered vehicles to automotive market in partnership
   with Baidu
 date: 2017-07-10 16:21:00 Z
+tags: fiction
+subclass: 'post tag-fiction'
+categories: 'casper'
+navigation: True
+logo: 'assets/images/ghost.png'
 ---
 
 Microsoft announced that it has entered in a partnership with Baidu, the Chinese search engine to implement AI technology into the new self driving car market.  The company announced the news of its Partnership with Baidu with the project being called as “Apollo”
