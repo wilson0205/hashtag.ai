@@ -12,8 +12,8 @@ markdown: kramdown
 highlighter: rouge
 paginate: 5
 language: en-uk
-name: AI
-description: 'Artificial Intelligence: The next industrial revolution.'
+name: Artificial Intelligence
+description: 'The next industrial revolution.'
 author: Wilson Tjandra
 nickname: wilson
 bio: futurist
