@@ -8,7 +8,7 @@ tags:
 - news
 layout: post
 cover: assets/images/cover6.jpg
-subclass: post tag-fiction
+subclass: post tag-news
 navigation: true
 logo: assets/images/ghost.png
 ---
