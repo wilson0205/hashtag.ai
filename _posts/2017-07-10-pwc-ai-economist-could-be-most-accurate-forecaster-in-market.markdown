@@ -4,10 +4,10 @@ date: 2017-07-10 16:14:00 Z
 categories:
 - casper
 tags:
-- fiction
+- news
 layout: post
 cover: assets/images/cover6.jpg
-subclass: post tag-fiction
+subclass: post tag-news
 navigation: true
 logo: assets/images/ghost.png
 ---
