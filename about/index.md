@@ -1,14 +1,14 @@
 ---
 title: About
-layout: page
 class: post
 navigation: true
 logo: assets/images/ghost.png
 current: about
+layout: page
 ---
 
-This is a demo blog for Ghost, it contains dummy content which allows you to click around and see what a Ghost blog running the default theme looks like.
+\#AI is about Artificial Intelligence.
 
-We use this for testing and for reference!
+The rise of AI permeates every aspect of human activities, and we are here talk about it.
 
-If you'd like to set up your own blog, head on over to [https://ghost.org](https://ghost.org) and sign up.
+Copyright 2017 Hashtag.ai℠
