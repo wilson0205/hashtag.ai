@@ -8,13 +8,13 @@ language: 'en-uk'
 
 # Website info
 name: 'Hashtag AI'
-description: "A beautiful narrative written with the world's most elegant platform. The story begins here."
+description: "Artificial Intelligence: The next industrial revolution."
 
 # Author's info
 author: 'Wilson Tjandra'
 # edit 'categories' in the front matter of every post to match this username
-nickname: casper
-bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
+nickname: wilson
+bio: 'futurist'
 location: 'Singapore'
 url: 'http://hashtag.ai/'
 image: 'assets/images/casper.png'
@@ -61,7 +61,7 @@ repo: hashtag.ai
 branch: master
 relative_source: ../hashtag.ai/
 destination: ../
-production_url:  https://hashtag.ai
+production_url:  https://hashtag.ai/
 source_url:      https://github.com/wilson0205/hashtag.ai/
 
 exclude:
