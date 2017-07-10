@@ -1,6 +1,13 @@
 ---
+layout: post
+cover: 'assets/images/cover6.jpg'
 title: PwC AI economist could be most accurate forecaster in market
 date: 2017-07-10 16:14:00 Z
+tags: fiction
+subclass: 'post tag-fiction'
+categories: 'casper'
+navigation: True
+logo: 'assets/images/ghost.png'
 ---
 
 The Big Four firm is preparing to launch an automated economist which it says can predict UK GDP trends with 92% accuracy
