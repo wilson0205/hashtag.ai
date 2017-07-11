@@ -1,6 +1,15 @@
 ---
 title: AI is Changing Everything – Even Science Itself
 date: 2017-07-11 03:12:00 Z
+categories:
+- casper
+tags:
+- news
+layout: post
+cover: assets/images/cover6.jpg
+subclass: post tag-news
+navigation: true
+logo: assets/images/ghost.png
 ---
 
 **AI PARTICLE PHYSICS**
