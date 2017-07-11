@@ -1,6 +1,15 @@
 ---
 title: The AI revolution in science
 date: 2017-07-11 03:20:00 Z
+categories:
+- casper
+tags:
+- news
+layout: post
+cover: assets/images/cover6.jpg
+subclass: post tag-news
+navigation: true
+logo: assets/images/ghost.png
 ---
 
 Big data has met its match. In field after field, the ability to collect data has exploded—in biology, with its burgeoning databases of genomes and proteins; in astronomy, with the petabytes flowing from sky surveys; in social science, tapping millions of posts and tweets that ricochet around the internet. The flood of data can overwhelm human insight and analysis, but the computing advances that helped deliver it have also conjured powerful new tools for making sense of it all. 
