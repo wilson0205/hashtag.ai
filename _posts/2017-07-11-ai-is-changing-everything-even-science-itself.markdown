@@ -12,7 +12,6 @@ navigation: true
 logo: assets/images/ghost.png
 ---
 
-
 **AI PARTICLE PHYSICS**
 
 Many might associate current artificial intelligence (AI) abilities with advanced gameplay, medical developments, and even driving. But AI is already reaching far beyond even these realms. In fact, AI is now helping particle physicists to discover new subatomic particles.
