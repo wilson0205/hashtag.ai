@@ -2059,7 +2059,22 @@ body:not(.post-template) .post-title {
     }
 }
 
+#dabar{
+	background: rgb(252, 70, 30);
+	color: #fff;
+	display: block;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	padding: 10px 0px;
+	text-align: center;
+}
 
+#dabar a{ 
+        color: #fff; 
+        text-decoration:underline; 
+        font-weight: normal; 
+}
 /* ==========================================================================
    End of file. Animations should be the last thing here. Do not add stuff
    below this point, or it will probably fuck everything up.
