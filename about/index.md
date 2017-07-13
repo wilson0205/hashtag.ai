@@ -11,7 +11,7 @@ layout: page
 
 The rise of AI permeates every aspect of human activities, and we are here talk about it.
 
-For any questions, call: +65 8808 3126 (Singapore)
+For questions or Domain Name sales, email: wilson@hashtag.ai
 
 Copyright 2016 Hashtag.ai℠. All rights reserved.
 
