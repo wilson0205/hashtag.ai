@@ -21,7 +21,7 @@ location: Singapore
 url: http://hashtag.ai/
 image: assets/images/casper.png
 short_url: hashtag.ai
-google_analytics: UA-69281367-1
+google_analytics: UA-102575224-2
 disqus: username
 baseurl: "/"
 permalink: "/:title"
